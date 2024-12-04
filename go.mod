@@ -1,3 +1,3 @@
-module github.com/Yunnie-pin/cron
+module github.com/robfig/cron/v3
 
 go 1.12
